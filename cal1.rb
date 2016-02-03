@@ -67,3 +67,5 @@ c=Multi.new(10,5)
 c.show
 c=Div.new(10,5)
 c.show
+c.show
+c.show
